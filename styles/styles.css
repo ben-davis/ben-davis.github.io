@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+.container {
+    align-items: center;
+    background: url('../images/moody.jpg') center center;
+    background-size: cover;
+    color: white;
+    display: flex;
+    font-family: 'AvenirNext-DemiBold';
+    font-size: 64px;
+    justify-content: center;
+    text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.6);
+    height: 100vh;
+    width: 100vw;
+}
